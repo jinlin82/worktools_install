@@ -62,4 +62,4 @@ link-citations: true
 1. 把worktools里面的config文件剪切到根目录下面
 2. worktools文件名改为worktools.bak 
 3. 把移动硬盘里面的worktools用fastcopy.exe拷贝到C盘
-4. 测试，一个星期后没有问题就把worktools.bak删掉（需要30-60分钟）
+4. 测试，一个星期后没有问题就把worktools.bak删掉（需要30-60分钟） 
