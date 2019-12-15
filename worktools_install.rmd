@@ -58,6 +58,7 @@ link-citations: true
 8. 重启rstudio,出现以下界面，说明安装完成
 
 ![](.\图四.png)
+
 # 软件更新
 1. 把worktools里面的config文件剪切到根目录下面
 2. worktools文件名改为worktools.bak 
