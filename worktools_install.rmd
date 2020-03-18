@@ -36,7 +36,8 @@ link-citations: true
 
 # Worktools安装指南详细版
 
-1. 卸载电脑中已经安装的R和Rstudio和tex软件(包括 CTEX， Texlive等卸载干净，不要有R残留），接着重启电脑。
+1. 卸载电脑中已经安装的R和Rstudio和tex软件(包括 CTEX， MikTeX, Texlive等卸载干净，不要有
+   R残留），接着重启电脑。
 2. 把移动硬盘worktools文件夹里面的FastCopy211文件夹拷贝到桌面
 3. 使用桌面FastCopy211文件夹里面的fastcopy.exe 把移动硬盘里面的 worktools 文件夹，
    texlive 文件夹和cygwin文件夹都拷贝至C盘根目录下（C盘至少有20个G剩余空间）
